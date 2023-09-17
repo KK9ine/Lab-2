@@ -12,11 +12,11 @@ namespace _1
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "3,4"; 
-            textBox2.Text = "0,74"; 
-            textBox3.Text = "19,43";
+            textBox1.Text = "2,1"; 
+            textBox2.Text = "0,17"; 
+            textBox3.Text = "14,59";
                                     
-            textBox4.Text = "Лаб. раб. N1. Ст. гр. 7А62 Иванов А.А.";
+            textBox4.Text = "Лабораторная работа № 2 Щербаненко";
         }
         
         
